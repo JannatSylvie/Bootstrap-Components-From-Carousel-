@@ -1,0 +1,14 @@
+.alert-red{
+	color: #f8f9fa;
+    background-color: #d34e5a;
+    border-color: #c02233;
+}
+.cardStyle{
+    width: 300px;
+}
+.cardStyle h4{
+    color: #7e5196;
+}
+.cardStyle p{
+    color: #ABB4EF;
+}
